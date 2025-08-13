@@ -1,3 +1,4 @@
+->We have Portfolio code here but,
  -> When someone clones this repo after opening this code in vs code first type "npm install" 
  -> after u install nodemodules now to run this code type in bash "npm run dev"
  -> if you dont follow these two steps u can see the output of this repo
